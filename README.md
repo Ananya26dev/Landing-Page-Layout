@@ -1,0 +1,3 @@
+Landing Page Layout
+
+This project represents a structured layout design for a landing page. It includes essential sections such as a header, a banner with a headline, an elevator pitch, a video section, a call-to-action (CTA) with an inquiry form, benefits of services, testimonials, reviews, results, blogs and footer. The clean and organized design is suitable for showcasing business offerings, capturing leads, and building trust with potential customers.
